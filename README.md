@@ -4,7 +4,7 @@
 
 ## Language
 
-- Java, C++ (for 우찬)
+- Java, c++
 
 ## 스터디 진행방식
 
